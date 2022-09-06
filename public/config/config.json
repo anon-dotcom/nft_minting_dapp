@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x61f362056caae0da78661d9bfade1cddaf8143b6",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x61f362056caae0da78661d9bfade1cddaf8143b6",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "RinkebyETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Test Release 1",
+  "SYMBOL": "TEST",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/TestRelease1",
+  "SHOW_BACKGROUND": true
+}
