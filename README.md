@@ -19,7 +19,7 @@ Contents of build folder can be hosted.
 The contract "TestRelease1.sol" works with the Dapp
 
 
-The contract "Test2R.sol" is the contract with refundability implemented.
+The contract "Test2R.sol" will be the contract with refundability implemented. (it is currently non-functional)
 
 
 The current goal is to implement refundability in to both the front-end and Test2R Contract.
